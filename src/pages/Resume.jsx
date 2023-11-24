@@ -12,7 +12,7 @@ import "react-pdf/dist/esm/Page/TextLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc =
   "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.338/pdf.worker.js";
 
-const resumeLink = `https://raw.githubusercontent.com/Zedozed/portfolio/main/src/assets/zedo.pdf`;
+const resumeLink = `https://raw.githubusercontent.com/Zedozed/React-Portfolio/main/src/assets/zedo.pdf`;
 
 const Resume = () => {
   const [width, setWidth] = useState(1200);

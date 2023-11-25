@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.76a9fea0.css",
+    "main.js": "/Portfolio-React/static/js/main.11a6420f.js",
+    "static/media/Zelogo.PNG": "/Portfolio-React/static/media/Zelogo.811d51f644c126b5d945.PNG",
+    "static/media/zedo.pdf": "/Portfolio-React/static/media/zedo.370e7f16ce0a6c988b2a.pdf",
+    "static/media/mezed.jpg": "/Portfolio-React/static/media/mezed.c1e69a1820a5277f71bc.jpg",
+    "static/media/zedye.jpg": "/Portfolio-React/static/media/zedye.f29b2d10429cf2e88392.jpg",
+    "static/media/zed logo.PNG": "/Portfolio-React/static/media/zed logo.510aba7cbbbead5a6c68.PNG",
+    "static/media/ATM.png": "/Portfolio-React/static/media/ATM.49dc14e71ea06ecd44e2.png",
+    "static/media/pre.svg": "/Portfolio-React/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Portfolio-React/index.html",
+    "main.76a9fea0.css.map": "/Portfolio-React/static/css/main.76a9fea0.css.map",
+    "main.11a6420f.js.map": "/Portfolio-React/static/js/main.11a6420f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76a9fea0.css",
+    "static/js/main.11a6420f.js"
+  ]
+}
